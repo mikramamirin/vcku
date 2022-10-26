@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tabel HTML</title>
+</head>
+<body>
+	<table border="1" width="50%">
+		<tr>
+			<td rowspan="2" colspan="4" align="center" bgcolor="yellow">kalau kamu</td>
+			<td bgcolor="orange">tidak</td>
+			<td rowspan="2" bgcolor="grey">tahu mau</td>
+			<td>mau</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td bgcolor="orange">ke mana</td>
+		</tr>
+		<tr>
+			<td>kamu</td>
+			<td rowspan="2" bgcolor="grey">tidak</td>
+			<td>akan</td>
+			<td>kemana</td>
+			<td rowspan="2" colspan="3" align="center" valign="bottom" bgcolor="green">mana</td>
+		</tr>
+		<tr>
+			<td>jika kamu</td>
+			<td rowspan="3">sanggup</td>
+			<td rowspan="3" align="center" valign="bottom">menahan</td>
+		</tr>
+		<tr>
+			<td rowspan="3">lelahnya belajar</td>
+			<td>maka kamu</td>
+		</tr>
+		<tr>
+			<td>harus</td>
+			<td>perihnya</td>
+			<td colspan="2">kebodohan</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+	</table>
+</body>
+</html>
